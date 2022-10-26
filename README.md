@@ -1,5 +1,7 @@
 Nama    : Mohammad Azmi Abdussyukur
+
 NIM     : 312210109
+
 Kelas   : TI.22.A1
 # Latihan Pyhton
 1. donwload pyhton pada web resmi python https://www.python.org/ dengan menyesuaikan OS dari versi masing masing. 
