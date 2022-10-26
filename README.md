@@ -26,6 +26,6 @@ Kelas   : TI.22.A1
 
 >>menampilkan tulisan "Hallo" di layar
 print("Hallo")
-print("Saya sedang belajar Pyhton")
+print("Saya sedang belajar Pyhton")<<
 
 ![5](https://user-images.githubusercontent.com/115864496/197973707-4bdc0a04-c69c-475a-8f03-a581d9abc93d.png)
