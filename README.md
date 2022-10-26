@@ -24,8 +24,8 @@ Kelas   : TI.22.A1
 2. Setalah CMD masukan perintah PYTHON
 3. Kemudian lakukan latihan pertama dengan menampilkan kalimat ("Hallo") dan ("Saya belajar Python")
 
->>menampilkan tulisan "Hallo" di layar
+                          #menampilkan tulisan "Hallo" di layar
 print("Hallo")
-print("Saya sedang belajar Pyhton")>>
+print("Saya sedang belajar Pyhton"
 
 ![5](https://user-images.githubusercontent.com/115864496/197973707-4bdc0a04-c69c-475a-8f03-a581d9abc93d.png)
