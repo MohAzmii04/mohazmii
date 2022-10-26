@@ -19,3 +19,13 @@ Kelas   : TI.22.A1
 3. cek keterangan instalasi berhasil pada menu cmd dengan cara ketik python --version, dan instalasi dinyatakan berhasil dijalankan pada menu cmd
 
 ![4](https://user-images.githubusercontent.com/115864496/197969344-74d521b2-c064-48e9-8223-aad8572ce4c6.png)
+#Latihan Python 1
+pada menu windows ketik CMD dan akan muncul CMD
+Setalah CMD masukan perintah PYTHON
+Kemudian lakukan latihan pertama dengan menampilkan kalimat ("Hallo") dan ("Saya belajar Python")
+
+#menampilkan tulisan "Hallo" di layar
+print("Hallo")
+print("Saya sedang belajar Pyhton")
+
+![5](https://user-images.githubusercontent.com/115864496/197973707-4bdc0a04-c69c-475a-8f03-a581d9abc93d.png)
